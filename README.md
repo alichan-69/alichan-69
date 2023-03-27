@@ -9,8 +9,8 @@
 
 - CI/CD、DevOps による業務効率化
 - web アプリ開発
-  - [ソートメーカー](https://github.com/alichan-69/AliceGame)
-  - [memorun](https://github.com/alichan-69/AliceGame)
+  - [ソートメーカー](https://github.com/alichan-69/sort-maker-front)
+  - [memorun](https://github.com/alichan-69/memorun)
   - [漫画診断](https://github.com/alichan-69/AliceGame)
 - ゲーム開発
   - [アリスゲーム](https://github.com/alichan-69/AliceGame)
