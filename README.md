@@ -3,7 +3,7 @@
 都内外資系 IT 企業で web 開発を行う生物 🐈<br>
 主にフロントエンドが主戦場であったが、最近は CI/CD・DevOps などに目覚め、そこらへんの勉強・開発を頑張っている。<br>
 スターをもらうと喜ぶらしいので、気軽にあげてほしい 🌟<br>
-詳細はこちら→https://github.com/alichan-69/alichancareer
+詳細はこちら →https://github.com/alichan-69/alichan-career
 
 ### 好きなこと
 
