@@ -24,6 +24,6 @@
 - インフラ
   - aws、docker、mysql
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=alichan-69&count_private=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+![Alichan's GitHub stats](https://github-readme-stats.vercel.app/api?username=alichan-69&theme=tokyonight&layout=compact)
 
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=alichan-69&count_private=true&theme=tokyonight&layout=compact)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs?username=alichan-69&count_private=true&theme=tokyonight&layout=compact)
