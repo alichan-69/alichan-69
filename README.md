@@ -1,13 +1,14 @@
 ### alichan とは
 
 都内外資系 IT 企業で web 開発を行う生物 🐈<br>
-主にフロントエンドが主戦場であったが、最近は CI/CD・DevOps などに目覚め、そこらへんの勉強・開発を頑張っている。<br>
+主にフロントエンドが主戦場であったが、最近は バックエンドやインフラに移行したいと思い、そこらへんの勉強・開発を頑張っている。<br>
 スターをもらうと喜ぶらしいので、気軽にあげてほしい 🌟<br>
 詳細はこちら →https://github.com/alichan-69/alichan-career
 
 ### 好きなこと
 
-- CI/CD、DevOps による業務効率化
+- OSS 開発
+  - [hostnavi](https://github.com/alichan-69/hostnavi)
 - web アプリ開発
   - [ソートメーカー](https://github.com/alichan-69/sort-maker-front)
   - [memorun](https://github.com/alichan-69/memorun)
